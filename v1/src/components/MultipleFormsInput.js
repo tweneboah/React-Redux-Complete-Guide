@@ -11,7 +11,7 @@ class Forms extends Component {
 
     //For multiple input fields to avoid duplication of formChange handlers we use one onChange handler
     //This is how we do it
-    //We will create only function
+    //We will create only one function
     //The name attribute of the form must be the same as the state variables
 
     //HANDLE CHANGE METHOD
